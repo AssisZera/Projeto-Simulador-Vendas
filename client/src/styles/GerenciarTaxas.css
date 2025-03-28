@@ -1,0 +1,76 @@
+/* Estilização básica */
+
+h2, h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.gerenciar-taxas {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 1100px;
+}
+
+/* Tabela */
+.taxas-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.taxas-table th, .taxas-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.taxas-table th {
+    background-color: #f2f2f2;
+}
+
+.taxas-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Formulários */
+.atualizar-taxas, .criar-taxas {
+    margin-top: 20px;
+}
+
+select, input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Botões */
+button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Centralização dos formulários */
+.atualizar-taxas, .criar-taxas {
+    background: white;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}

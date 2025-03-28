@@ -1,0 +1,86 @@
+.simulador {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+    overflow: hidden; 
+  }
+  
+  .input-field {
+    margin-bottom: 1.5rem;
+  }
+  
+  .input-field label {
+    display: block;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .input-field input,
+  .input-field select {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .lista-taxas-container {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .lista-taxas {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .lista-taxas li {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    color: #333;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .lista-taxas li:nth-child(odd) {
+    background-color: #f4f4f4;
+  }
+  
+  .lista-taxas li:nth-child(even) {
+    background-color: #fff;
+  }
+  
+  .lista-taxas li:last-child {
+    border-bottom: none;
+  }
+  
+  .btn-simular,
+  .btn-nova,
+  .btn-editar,
+  .btn-atualizar {
+    background: red;
+    color: #fff;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-simular:hover,
+  .btn-nova:hover,
+  .btn-editar:hover,
+  .btn-atualizar:hover {
+    background: darkred;
+  }
