@@ -1,6 +1,6 @@
 Simulador de Vendas - Loja de Elétrica e Hidráulica <br>
 
-Este é um projeto desenvolvido em React (JavaScript) com conexão MySQL, criado para solucionar um problema enfrentado por uma loja de elétrica e hidráulica. A loja possui três funcionários, mas o simulador de vendas de cartão (para pagamentos parcelados) estava acessível apenas no celular do filho do dono da loja, que é o único que sabe mexer com tecnologia. Quando ele sai, os funcionários precisam ligar para que ele simule a venda e informe o valor correto.
+Este é um projeto desenvolvido em React (JavaScript) com conexão MySQL, criado para solucionar um problema enfrentado por uma loja de elétrica e hidráulica. A loja possui três funcionários, mas o simulador de vendas de cartão (para pagamentos parcelados) estava acessível apenas no celular do filho do dono da loja, que é o único que sabe mexer com tecnologia. Quando ele sai, os pais precisam ligar para que ele simule a venda e informe o valor correto.
 
 Para resolver essa limitação, desenvolvemos um simulador de vendas que pode ser acessado diretamente pelo computador da loja, permitindo que os funcionários realizem as simulações sem depender de terceiros. O sistema inclui: <br>
 
