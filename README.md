@@ -27,3 +27,7 @@ Esse projeto foi um desafio e tanto! Desde a visita diagnóstica para entender a
 Testamos bastante a aplicação para garantir que estivesse funcionando direitinho e colhemos feedbacks da loja para ajustes finais. Foi uma experiência enriquecedora, que nos mostrou a importância da escuta ativa, da colaboração e da adaptação.
 
 Essa experiência certamente servirá de base para que eu me torne um excelente profissional de TI. Acredito que devemos buscar vivências como essa para evoluir tanto profissionalmente quanto como pessoa.
+
+🔍 Informações sobre o projeto
+
+Estou disponibilizando o código junto com a documentação do projeto, que inclui detalhes de todo o planejamento, além de algumas fotos dos clientes utilizando o sistema e uma foto do grupo completo. 😁 
